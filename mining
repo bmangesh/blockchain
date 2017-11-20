@@ -1,0 +1,11 @@
+
+
+What is Bitcoin mining?
+
+One can think of Bitcoin as one big global ledger system that records transactions (or ‘moving money’) between one person to another. Whenever Bitcoin transactions are processed on the Bitcoin network – that means Bitcoin is moved from one person to another – someone has to make sure all the transactions are recorded properly and that the ledgers on all the systems are synchronized all over the world.
+
+In the case of Bitcoin, this process is not done by people or companies, but by thousands of computers all over the world that are all connected to the internet. These computers are knowns as ‘miners’, but they should really simply be called ‘computers that process transactions’.
+
+To do this processing in a very secure way, these computers need to perform very complicated calculations that take a lot of computing power, and in turn, require a lot of energy and expensive and specialised processing equipment. Someone - the owner of the computers - needs to pay for all this equipment and electricity, so they need to be compensated for all the money and effort they are putting into making this network work. They earn this compensation through newly minted Bitcoin - so in short all new Bitcoin that is created acts as a reward and incentive mechanism for people to contribute their computers to the system to help process transactions.
+
+Another way to look at it is to consider what would happen if a large bank built the world’s biggest global transaction processing system: they would spend a few billion dollar on it and then charge everyone transaction fees to recoup this cost. With Bitcoin mining, the cost of this global system has just been spread over thousands of computers, and they recoup their cost through newly minted Bitcoin. In short, it’s simply a democratisation of financial infrastructure.
